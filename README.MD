@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+  README.md 
 # HTML Viewer Pro
 
 A simple Android app to view local HTML files and follow external links using WebView.
